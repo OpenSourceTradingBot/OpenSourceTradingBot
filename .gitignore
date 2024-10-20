@@ -18,15 +18,3 @@ dist/
 
 # Environment variables
 .env
-
-# Ignore Docker-related files
-docker-compose.override.yml
-
-# Jupyter Notebook checkpoints
-.ipynb_checkpoints/
-
-# SQLite database
-*.sqlite3
-
-# macOS-specific files
-.DS_Store
